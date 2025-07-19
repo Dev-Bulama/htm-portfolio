@@ -1,0 +1,42 @@
+nav{
+    background-color: brown;
+}
+.ul{
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    
+   
+}
+.ul a{
+    text-decoration: none;
+}
+/* .ul li{
+    padding:;
+} */
+
+.myimage{
+    background-image: url(https://cdn.pixabay.com/photo/2022/11/05/22/11/channel-7572879_960_720.jpg);
+    /* background-color: red; */
+    background-size: cover;
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+}
+.imageContent{
+    /* background-color: yellow; */
+    text-align: center;
+}
+.myButton{
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
